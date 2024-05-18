@@ -38,7 +38,7 @@ function Form({ addOrder }) {
     }
   }
 
-  console.log("FormState:", formState)
+  // console.log("FormState:", formState)
 
   return (
     <div className="ui raised container segment">
